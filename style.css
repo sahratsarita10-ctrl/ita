@@ -1,0 +1,12 @@
+body {}
+h1{
+  font-family: morton;
+   text-align: center;
+   color: #B78D71;
+   margin-bottom: 10px;
+}
+p{
+  line-height: 1.7 ;
+  text-align: justify;
+  color: #000000 ;
+}
